@@ -9,5 +9,3 @@ display_board(board)
 play(board)
 puts "Please enter 1-9:"
 input = gets.strip
-
-# Make sure to execute #play below
